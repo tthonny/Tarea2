@@ -1,0 +1,7 @@
+C:\Users\ablan\source\repos\Tarea1.3\Tarea1.3\bin\Debug\Tarea1.3.exe.config
+C:\Users\ablan\source\repos\Tarea1.3\Tarea1.3\bin\Debug\Tarea1.3.exe
+C:\Users\ablan\source\repos\Tarea1.3\Tarea1.3\bin\Debug\Tarea1.3.pdb
+C:\Users\ablan\source\repos\Tarea1.3\Tarea1.3\obj\Debug\Tarea1.3.csproj.AssemblyReference.cache
+C:\Users\ablan\source\repos\Tarea1.3\Tarea1.3\obj\Debug\Tarea1.3.csproj.CoreCompileInputs.cache
+C:\Users\ablan\source\repos\Tarea1.3\Tarea1.3\obj\Debug\Tarea1.3.exe
+C:\Users\ablan\source\repos\Tarea1.3\Tarea1.3\obj\Debug\Tarea1.3.pdb
